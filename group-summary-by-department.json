@@ -1,0 +1,34 @@
+{
+  "description": "Mean and standard deviation of Total Score, Stress Level, and Sleep Hours grouped by Department",
+  "operations": "group_by(Department), summarise(mean, sd), na.rm = TRUE",
+  "summary": [
+    {
+      "Department": "Business",
+      "mean_total": 74.4951,
+      "sd_total": 14.6059,
+      "mean_stress": 5.506,
+      "mean_sleep": 6.5254
+    },
+    {
+      "Department": "CS",
+      "mean_total": 75.3966,
+      "sd_total": 14.519,
+      "mean_stress": 5.5005,
+      "mean_sleep": 6.4706
+    },
+    {
+      "Department": "Engineering",
+      "mean_total": 75.0201,
+      "sd_total": 14.0696,
+      "mean_stress": 5.4221,
+      "mean_sleep": 6.494
+    },
+    {
+      "Department": "Mathematics",
+      "mean_total": 75.5677,
+      "sd_total": 14.4555,
+      "mean_stress": 5.5229,
+      "mean_sleep": 6.4668
+    }
+  ]
+}

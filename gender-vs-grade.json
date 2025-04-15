@@ -1,0 +1,22 @@
+{
+  "description": "Contingency table of Gender vs Grade",
+  "operations": "count(Gender, Grade), pivot_wider()",
+  "summary": [
+    {
+      "Gender": "Male",
+      "F": 441,
+      "D": 451,
+      "C": 411,
+      "B": 507,
+      "A": 741
+    },
+    {
+      "Gender": "Female",
+      "F": 403,
+      "D": 438,
+      "C": 383,
+      "B": 471,
+      "A": 754
+    }
+  ]
+}
