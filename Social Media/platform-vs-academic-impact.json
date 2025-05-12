@@ -1,0 +1,101 @@
+{
+  "description": "Count of students by most used platform and academic impact",
+  "operations": "count(), arrange()",
+  "summary": [
+    {
+      "most_used_platform": "Instagram",
+      "affects_academic_performance": "Yes",
+      "n": 172
+    },
+    {
+      "most_used_platform": "TikTok",
+      "affects_academic_performance": "Yes",
+      "n": 144
+    },
+    {
+      "most_used_platform": "Facebook",
+      "affects_academic_performance": "No",
+      "n": 86
+    },
+    {
+      "most_used_platform": "Instagram",
+      "affects_academic_performance": "No",
+      "n": 77
+    },
+    {
+      "most_used_platform": "WhatsApp",
+      "affects_academic_performance": "Yes",
+      "n": 54
+    },
+    {
+      "most_used_platform": "Facebook",
+      "affects_academic_performance": "Yes",
+      "n": 37
+    },
+    {
+      "most_used_platform": "LinkedIn",
+      "affects_academic_performance": "No",
+      "n": 21
+    },
+    {
+      "most_used_platform": "Twitter",
+      "affects_academic_performance": "No",
+      "n": 19
+    },
+    {
+      "most_used_platform": "KakaoTalk",
+      "affects_academic_performance": "Yes",
+      "n": 12
+    },
+    {
+      "most_used_platform": "LINE",
+      "affects_academic_performance": "No",
+      "n": 12
+    },
+    {
+      "most_used_platform": "Snapchat",
+      "affects_academic_performance": "Yes",
+      "n": 12
+    },
+    {
+      "most_used_platform": "VKontakte",
+      "affects_academic_performance": "No",
+      "n": 12
+    },
+    {
+      "most_used_platform": "Twitter",
+      "affects_academic_performance": "Yes",
+      "n": 11
+    },
+    {
+      "most_used_platform": "TikTok",
+      "affects_academic_performance": "No",
+      "n": 10
+    },
+    {
+      "most_used_platform": "WeChat",
+      "affects_academic_performance": "Yes",
+      "n": 8
+    },
+    {
+      "most_used_platform": "WeChat",
+      "affects_academic_performance": "No",
+      "n": 7
+    },
+    {
+      "most_used_platform": "YouTube",
+      "affects_academic_performance": "No",
+      "n": 7
+    },
+    {
+      "most_used_platform": "YouTube",
+      "affects_academic_performance": "Yes",
+      "n": 3
+    },
+    {
+      "most_used_platform": "Snapchat",
+      "affects_academic_performance": "No",
+      "n": 1
+    }
+  ]
+}

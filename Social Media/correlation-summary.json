@@ -1,0 +1,76 @@
+{
+  "description": "Correlation matrix among numeric variables",
+  "operations": "select(), cor(), round(), as.data.frame()",
+  "summary": [
+    {
+      "student_id": 1,
+      "age": 0.22,
+      "avg_daily_usage_hours": 0.27,
+      "sleep_hours_per_night": 0.17,
+      "mental_health_score": -0.06,
+      "conflicts_over_social_media": 0.17,
+      "addicted_score": 0.04,
+      "_row": "student_id"
+    },
+    {
+      "student_id": 0.22,
+      "age": 1,
+      "avg_daily_usage_hours": -0.11,
+      "sleep_hours_per_night": 0.13,
+      "mental_health_score": 0.16,
+      "conflicts_over_social_media": -0.18,
+      "addicted_score": -0.17,
+      "_row": "age"
+    },
+    {
+      "student_id": 0.27,
+      "age": -0.11,
+      "avg_daily_usage_hours": 1,
+      "sleep_hours_per_night": -0.79,
+      "mental_health_score": -0.8,
+      "conflicts_over_social_media": 0.8,
+      "addicted_score": 0.83,
+      "_row": "avg_daily_usage_hours"
+    },
+    {
+      "student_id": 0.17,
+      "age": 0.13,
+      "avg_daily_usage_hours": -0.79,
+      "sleep_hours_per_night": 1,
+      "mental_health_score": 0.71,
+      "conflicts_over_social_media": -0.68,
+      "addicted_score": -0.76,
+      "_row": "sleep_hours_per_night"
+    },
+    {
+      "student_id": -0.06,
+      "age": 0.16,
+      "avg_daily_usage_hours": -0.8,
+      "sleep_hours_per_night": 0.71,
+      "mental_health_score": 1,
+      "conflicts_over_social_media": -0.89,
+      "addicted_score": -0.95,
+      "_row": "mental_health_score"
+    },
+    {
+      "student_id": 0.17,
+      "age": -0.18,
+      "avg_daily_usage_hours": 0.8,
+      "sleep_hours_per_night": -0.68,
+      "mental_health_score": -0.89,
+      "conflicts_over_social_media": 1,
+      "addicted_score": 0.93,
+      "_row": "conflicts_over_social_media"
+    },
+    {
+      "student_id": 0.04,
+      "age": -0.17,
+      "avg_daily_usage_hours": 0.83,
+      "sleep_hours_per_night": -0.76,
+      "mental_health_score": -0.95,
+      "conflicts_over_social_media": 0.93,
+      "addicted_score": 1,
+      "_row": "addicted_score"
+    }
+  ]
+}

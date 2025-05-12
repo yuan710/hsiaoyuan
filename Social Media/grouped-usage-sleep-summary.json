@@ -1,0 +1,42 @@
+{
+  "description": "Average social media usage and sleep by academic level and gender",
+  "operations": "group_by(), summarise()",
+  "summary": [
+    {
+      "academic_level": "Graduate",
+      "gender": "Female",
+      "avg_usage": 4.7292,
+      "avg_sleep": 6.8
+    },
+    {
+      "academic_level": "Graduate",
+      "gender": "Male",
+      "avg_usage": 4.7852,
+      "avg_sleep": 7.07
+    },
+    {
+      "academic_level": "High School",
+      "gender": "Female",
+      "avg_usage": 5.84,
+      "avg_sleep": 5.3467
+    },
+    {
+      "academic_level": "High School",
+      "gender": "Male",
+      "avg_usage": 5.175,
+      "avg_sleep": 5.5917
+    },
+    {
+      "academic_level": "Undergraduate",
+      "gender": "Female",
+      "avg_usage": 5.0148,
+      "avg_sleep": 6.8948
+    },
+    {
+      "academic_level": "Undergraduate",
+      "gender": "Male",
+      "avg_usage": 4.9397,
+      "avg_sleep": 6.5238
+    }
+  ]
+}
